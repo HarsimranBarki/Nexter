@@ -1,2 +1,2 @@
 # Nexter
-A theme template for small buisness
+A theme template for small business
